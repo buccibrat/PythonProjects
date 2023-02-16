@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc91192c-715a-44a8-82b8-49cbf910af97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ccT3ItSr0SG21c8PWK4vMeRAaU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IRG/lab3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\korisnik\PycharmProjects\UI\Lab3\Lab3py" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.id3">
+    <configuration name="id3" type="PythonConfigurationType" factoryName="Python">
+      <module name="Lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/id3.py" />
+      <option name="PARAMETERS" value="logic_small.csv logic_small_test.csv config\id3.cfg" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="Lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.id3" />
+      <item itemvalue="Python.test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc91192c-715a-44a8-82b8-49cbf910af97" name="Default Changelist" comment="" />
+      <created>1590826680738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590826680738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591272659827">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1591272659827" />
+    <state x="463" y="132" key="FileChooserDialogImpl" timestamp="1592916730028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592916730028" />
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590862312015" />
+    <state width="1345" height="152" key="GridCell.Tab.0.bottom" timestamp="1591345458964">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="152" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591345458964" />
+    <state width="1345" height="152" key="GridCell.Tab.0.center" timestamp="1591345458964">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="152" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591345458964" />
+    <state width="1345" height="152" key="GridCell.Tab.0.left" timestamp="1591345458964">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="152" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591345458964" />
+    <state width="1345" height="152" key="GridCell.Tab.0.right" timestamp="1591345458964">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="152" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591345458964" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1590953618391">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590953618391" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1590953618391">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1590953618391" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1590953618391">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1590953618391" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1590953618391">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1590953618391" />
+    <state width="691" height="392" key="XDebugger.FullValuePopup" timestamp="1590953274565">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="691" height="392" key="XDebugger.FullValuePopup/0.0.1366.768@0.0.1366.768" timestamp="1590953274565" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1590934409936">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1590934409936" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/id3.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/id3.py</url>
+          <line>212</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

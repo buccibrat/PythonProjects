@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c80baa20-c2db-453b-aab5-f2524d1f089a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aoAJDTggNrPOnJkacAYiDzFlq2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.solution2">
+    <configuration name="solution" type="PythonConfigurationType" factoryName="Python">
+      <module name="LAB2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solution.py" />
+      <option name="PARAMETERS" value="resolution &quot;C:\Users\korisnik\Documents\faks\6. semestar\UI\Labosi\2.Labos\lab2_files\resolution_examples\ai.txt&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution2" type="PythonConfigurationType" factoryName="Python">
+      <module name="LAB2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solution2.py" />
+      <option name="PARAMETERS" value="resolution &quot;C:\Users\korisnik\Documents\faks\6. semestar\UI\Labosi\2.Labos\lab2_files\resolution_examples\ai.txt&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution3" type="PythonConfigurationType" factoryName="Python">
+      <module name="LAB2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solution3.py" />
+      <option name="PARAMETERS" value="resolution &quot;C:\Users\korisnik\Documents\faks\6. semestar\UI\Labosi\2.Labos\lab2_files\resolution_examples\ai.txt&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution4" type="PythonConfigurationType" factoryName="Python">
+      <module name="LAB2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solution4.py" />
+      <option name="PARAMETERS" value="resolution &quot;C:\Users\korisnik\Documents\faks\6. semestar\UI\Labosi\2.Labos\lab2_files\resolution_examples\ai.txt&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution5" type="PythonConfigurationType" factoryName="Python">
+      <module name="LAB2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solution5.py" />
+      <option name="PARAMETERS" value="resolution &quot;C:\Users\korisnik\Documents\faks\6. semestar\UI\Labosi\2.Labos\lab2_files\resolution_examples\chicken_broccoli_alfredo_big.txt&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution6" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="LAB2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solution6.py" />
+      <option name="PARAMETERS" value="resolution &quot;C:\Users\korisnik\Documents\faks\6. semestar\UI\Labosi\2.Labos\lab2_files\resolution_examples\coffee.txt&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution_final" type="PythonConfigurationType" factoryName="Python">
+      <module name="LAB2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solution_final.py" />
+      <option name="PARAMETERS" value="resolution &quot;C:\Users\korisnik\Documents\faks\6. semestar\UI\Labosi\2.Labos\lab2_files\resolution_examples\ai.txt&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="LAB2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.solution2" />
+      <item itemvalue="Python.solution4" />
+      <item itemvalue="Python.solution5" />
+      <item itemvalue="Python.solution6" />
+      <item itemvalue="Python.solution3" />
+      <item itemvalue="Python.solution" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.solution_final" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c80baa20-c2db-453b-aab5-f2524d1f089a" name="Default Changelist" comment="" />
+      <created>1587391499012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587391499012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="179" y="49" width="1092" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590850017517">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="179" y="49" width="1092" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1590850017517" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1587924850894">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1587924850894" />
+    <state width="1345" height="220" key="GridCell.Tab.0.bottom" timestamp="1587934126167">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587934126167" />
+    <state width="1345" height="220" key="GridCell.Tab.0.center" timestamp="1587934126167">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1587934126167" />
+    <state width="1345" height="220" key="GridCell.Tab.0.left" timestamp="1587934126166">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1587934126166" />
+    <state width="1345" height="220" key="GridCell.Tab.0.right" timestamp="1587934126167">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1587934126167" />
+    <state width="1345" height="220" key="GridCell.Tab.1.bottom" timestamp="1587934126167">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587934126167" />
+    <state width="1345" height="220" key="GridCell.Tab.1.center" timestamp="1587934126167">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1587934126167" />
+    <state width="1345" height="220" key="GridCell.Tab.1.left" timestamp="1587934126167">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1587934126167" />
+    <state width="1345" height="220" key="GridCell.Tab.1.right" timestamp="1587934126167">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="220" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1587934126167" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1587734920483">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1587734920483" />
+    <state width="691" height="392" key="XDebugger.FullValuePopup" timestamp="1587414321059">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="691" height="392" key="XDebugger.FullValuePopup/0.0.1366.768@0.0.1366.768" timestamp="1587414321059" />
+    <state x="424" y="27" key="refactoring.ChangeSignatureDialog" timestamp="1587584024896">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="424" y="27" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1587584024896" />
+    <state x="346" y="89" width="672" height="160" key="search.everywhere.popup" timestamp="1587586700352">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="160" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1587586700352" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solution6.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="sos" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

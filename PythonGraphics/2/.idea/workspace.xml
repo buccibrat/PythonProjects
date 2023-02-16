@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86e035c0-cfb6-4d00-a5b8-b72d34138036" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bJgWwkQSeXeYdH7spS99vIZj7k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\korisnik\PycharmProjects\IRG\lab3\vjezba6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Z6">
+    <configuration name="Z5" type="PythonConfigurationType" factoryName="Python">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vjezba5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\korisnik\PycharmProjects\IRG\lab3\vjezba5\vjezba5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Z6" type="PythonConfigurationType" factoryName="Python">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vjezba6" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\korisnik\PycharmProjects\IRG\lab3\vjezba6\vjezba6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="culjojeglup" type="PythonConfigurationType" factoryName="Python">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vjezba6" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vjezba6/zadculjo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vjezba5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vjezba5/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zadtest" type="PythonConfigurationType" factoryName="Python">
+      <module name="lab3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\korisnik\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vjezba6" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\korisnik\PycharmProjects\IRG\lab3\vjezba6\vjezba6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Z5" />
+      <item itemvalue="Python.Z6" />
+      <item itemvalue="Python.culjojeglup" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.zadtest" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86e035c0-cfb6-4d00-a5b8-b72d34138036" name="Default Changelist" comment="" />
+      <created>1588355645948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588355645948</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589881072528">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1589881072528" />
+    <state x="417" y="146" key="EnvironmentVariablesDialog" timestamp="1588362712313">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="417" y="146" key="EnvironmentVariablesDialog/0.0.1366.768@0.0.1366.768" timestamp="1588362712313" />
+    <state x="463" y="132" key="FileChooserDialogImpl" timestamp="1593689188266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593689188266" />
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1589723051876" />
+    <state width="1345" height="181" key="GridCell.Tab.0.bottom" timestamp="1593517693067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593517693067" />
+    <state width="1345" height="194" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1589896033158" />
+    <state width="1345" height="181" key="GridCell.Tab.0.center" timestamp="1593517693067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593517693067" />
+    <state width="1345" height="194" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1589896033158" />
+    <state width="1345" height="181" key="GridCell.Tab.0.left" timestamp="1593517693067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593517693067" />
+    <state width="1345" height="194" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1589896033158" />
+    <state width="1345" height="181" key="GridCell.Tab.0.right" timestamp="1593517693067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593517693067" />
+    <state width="1345" height="194" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1589896033158" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1588442061951">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588442061951" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1588442061951">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1588442061951" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1588442061951">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1588442061951" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1588442061951">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1588442061951" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1588525638832">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1588525638832" />
+  </component>
+</project>
